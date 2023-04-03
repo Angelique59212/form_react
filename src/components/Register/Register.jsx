@@ -12,6 +12,7 @@ export default function Register() {
         placeholder="Prénom"
         {...register("firstname", { required: true, maxLength: 30 })}
       />
+
       <input
         className="categories"
         placeholder="Nom"
