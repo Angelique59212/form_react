@@ -1,0 +1,8 @@
+.App {
+  text-align: center;
+  margin: 2rem;
+}
+
+.container-user {
+  display: flex;
+}

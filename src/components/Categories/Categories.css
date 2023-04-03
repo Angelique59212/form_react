@@ -1,0 +1,13 @@
+.categories {
+    width: 10vw;
+    height: 3vh;
+    margin: 1rem;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+h1 {
+    font-size: 2rem;
+    color: blue;
+    text-decoration: underline;
+}
